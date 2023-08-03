@@ -99,8 +99,6 @@ UI 컴포넌트의 명칭과 이를 구현하는 능력은 필수적인 커뮤�
 </div>
 </details>
 
-<br>
-
 <details>
 <summary>부산대FE_김성현_1주차 과제</summary>
 <div>
@@ -368,8 +366,6 @@ https://www.notion.so/9e21c53c52ea401fa0f72def74e94faf?pvs=4
 
 </div>
 </details>
-
-<br>
 
 <details>
 <summary>부산대FE_김성현_2주차 과제</summary>
